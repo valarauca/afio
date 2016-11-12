@@ -2,6 +2,12 @@
 name = "afio"
 version = "0.1.0"
 authors = ["William Laeder <codylaeder@gmail.com>"]
+repostiory = "https://github.com/valarauca/afio.git"
+homepage = "https://github.com/valarauca/afio"
+license = "Apache-2.0"
+readme = "README.md"
+documentation = "https://valarauca.github.io/afio/afio/index.html"
+description = "Simple Unix file io  bindings to MIO"
 
 [dependencies]
 libc = "0.2.*"
